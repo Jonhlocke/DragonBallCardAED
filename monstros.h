@@ -62,7 +62,6 @@ Monstro BancoDeDados(int ID) {
     }
 	return monstro;
 }
-
-
+batata
 #endif
 
